@@ -76,7 +76,7 @@ def procesar_pdf(archivo_bytes):
                 if not line: continue
                 
                 # --- 1. FILTROS DE BASURA ADMINISTRATIVA ---
-                ignorar = ["Avda", "Carrera", "Edad", "Teléfono", "Miguel", "Ministerio", "Salud", 
+                ignorar = ["Avda", "Carrera", "Teléfono", "Miguel", "Ministerio", "Salud", 
                            "Hospital", "Barros", "Luco", "RUT", "Paciente", "Solicitante", 
                            "Validado", "Fecha", "Hora", "Página", "Bioquimico", "F. Nacimiento", 
                            "Hematologia", "Coagulacion", "Gases", "Orina Completa", "Urocultivo",
