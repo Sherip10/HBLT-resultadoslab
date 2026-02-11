@@ -19,14 +19,14 @@ ABREVIACIONES = {
     # Coagulación
     "Tiempo De Protrombina": "TP", 
     "Tiempo De Protrombina Seg": "TP seg", # <--- NUEVO
-    "Tiempo De Tromboplastina": "TTPA", "Inr": "INR",
+    "Tiempo De Tromboplastina": "TTPA", "TIEMPO DE TROMBOPLASTINA": "TTPA", "Inr": "INR",
     
     # Bioquímica / Función Renal / Hepática
     "Nitrogeno Ureico": "BUN", "Urea": "Urea", "Creatinina": "Crea", "CREATININA": "Crea", 
     "Sodio": "Na", "Potasio": "K", "Cloro": "Cl", "Proteina C Reactiva": "PCR", 
     "Acido Urico": "AU", "Calcio": "Ca", "Fosforo": "P", "Magnesio": "Mg", 
     "Proteinas Totales": "Prot T", "Albumina": "Alb", "Ldh": "LDH", 
-    "Fosfatasa Alcalina": "FA", "Got": "GOT", "Ast": "GOT", "Got/Ast": "GOT",
+    "Fosfatasa Alcalina": "FA", "Got": "GOT", "Ast": "GOT", "Got/Ast": "GOT", "TIEMPO DE TROMBOPLASTINA": "TTPA",
     "Gpt": "GPT", "Alt": "GPT", "Gpt/Alt": "GPT", "Ggt": "GGT", "Gama Glutamil": "GGT",
     "Colesterol Total": "Col T", "Trigliceridos": "Trig", "Bilirrubina Total": "BT", "Bilirrubina Directa": "BD", 
     "Bilirrubina Conjugada": "BD", "Bilirrubina No Conjugada": "BI", "Bilirrubina Indirecta": "BI", 
